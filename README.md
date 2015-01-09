@@ -40,6 +40,7 @@ Now in game use Ctrl+l to bring up load macro menu:
 Select desired macro (in this example case HelloWorld is the only macro available) and press Enter.
 
 To run the macro:
+
 1. Switch into *Designation* menu - d
 2. Place your cursor into position from where you wand macro to start
 3. Press Ctrl+p - notice "Play" label indicator:
