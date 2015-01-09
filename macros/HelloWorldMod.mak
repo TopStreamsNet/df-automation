@@ -1,4 +1,4 @@
-HelloWorld
+HelloWorldMod
 		DESIGNATE_DIG
 		SELECT
 		CURSOR_LEFT
