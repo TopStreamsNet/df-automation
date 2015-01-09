@@ -11,7 +11,8 @@ Some information on Dwarf Fortress macro's can be found in [Dwarf Fortress Wiki]
 Simple macro that would designate a line of length 5 left from cursor position for mining.
 
 Create HelloWorld.mak file with following content in **<DF directory>/data/init/macros** 
-**Important:** File name should match first line of macro
+
+**!!!Important!!!** File name should match first line of macro
 
 ```
 HelloWorld
@@ -38,7 +39,12 @@ Now in game use Ctrl+l to bring up load macro menu:
 
 Select desired macro (in this example case HelloWorld is the only macro available) and press Enter.
 
-To run macro press Ctrl+p - notice "Play" label indicator:
+To run the macro:
+1. Switch into *Designation* menu - d
+2. Place your cursor into position from where you wand macro to start
+3. Press Ctrl+p - notice "Play" label indicator:
 
-![Playing Macro](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/load_macro.png)
+![Playing Macro](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/play_macro.png)
+
+![Macro Done](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/done_macro.png)
 
