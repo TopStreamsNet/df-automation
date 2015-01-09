@@ -69,29 +69,21 @@ End of macro
 **Note**: There should be an empty line at the end of the macro file, or loading will fail with an error - "I/O error while loading macro"
 
 1. Get into macro's management menu, to get there enter *Options* menu with Esc, then, using arrow keys to navigate and Enter to select, open *Key Bindings* menu and *Macros* would be the first submenu.
-
 ![Options Menu](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/options_menu.png)
-
 ![Key Bindings](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/key_bindings.png)
-
 ![Macros](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/macros.png)
 
 2. Delete existing macro that to be reloaded (HelloWorld in this example) using BackSpace
-
 **!!!WARNING!!!** Macro you are deleting is going to be also removed from **data/init/macros/** directory - so make sure that NEW content is not yet there and original is backed up if needed
-
 ![NoMacros](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/nomacros.png)
 
 3. Now, before leaving the menu or doing anything else - place new content into **data/init/macros/**, then leave *Macros* menu pressing Esc and exit *Key Binding* menu saving changes
-
 ![Save and Exit](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/save_exit.png)
 
 4. Exit *Options* menu by pressing Esc and load desired macro by using Ctrl+l
-
 ![ReLoad Macro Menu](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/load_macro.png)
 
 5. Switch into *Designation* menu with d and run new (reloaded) macro with Ctrl+p
-
 ![ReLoad Macro Menu](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/result_macro.png)
 
 
