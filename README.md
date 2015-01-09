@@ -10,7 +10,9 @@ Some information on Dwarf Fortress macro's can be found in [Dwarf Fortress Wiki]
 ### HelloWorld.mak - your first Dwarf Fortress macro
 Simple macro that would designate a line of length 5 left from cursor position for mining.
 
-Create HelloWorld.mak file with following content in **<DF directory>/data/init/macros** (**Important:** File name should match first line of macro)
+Create HelloWorld.mak file with following content in **<DF directory>/data/init/macros** 
+**Important:** File name should match first line of macro
+
 ```
 HelloWorld
         DESIGNATE_DIG
@@ -31,10 +33,12 @@ End of macro
 ```
 
 Now in game use Ctrl+l to bring up load macro menu:
-![Load Macro Menu]
+
+![Load Macro Menu](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/load_macro.png)
 
 Select desired macro (in this example case HelloWorld is the only macro available) and press Enter.
 
 To run macro press Ctrl+p - notice "Play" label indicator:
-![Playing Macro]
+
+![Playing Macro](https://raw.githubusercontent.com/TopStreamsNet/df-automation/master/images/load_macro.png)
 
